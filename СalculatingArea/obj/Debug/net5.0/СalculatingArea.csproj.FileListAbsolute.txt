@@ -1,0 +1,12 @@
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\bin\Debug\net5.0\СalculatingArea.deps.json
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\bin\Debug\net5.0\СalculatingArea.dll
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\bin\Debug\net5.0\ref\СalculatingArea.dll
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\bin\Debug\net5.0\СalculatingArea.pdb
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\СalculatingArea.csproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\СalculatingArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\СalculatingArea.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\СalculatingArea.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\СalculatingArea.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\СalculatingArea.dll
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\ref\СalculatingArea.dll
+C:\Users\Alexandr\source\repos\СalculatingArea\СalculatingArea\obj\Debug\net5.0\СalculatingArea.pdb
